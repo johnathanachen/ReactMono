@@ -3,7 +3,7 @@ Cross Platform React Starter Kit (Web/Mobile)
 
 ## Project Structure
 ReactMono/<br>
-&nbsp;package.json<br>
+>package.json<br>
 &nbsp;app/<br>
 &nbsp;&nbsp;components/<br>
 &nbsp;&nbsp;model/<br>
