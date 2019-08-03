@@ -17,6 +17,13 @@ Cross Platform React Starter Kit (Web/Mobile)
     ├── web                    
     │   └── package.json         
 
+## Tools 
+- Babel
+- Webpack
+- Jest
+- ESLint
+- Prettier
+
 ## Other Popular Projects
 - [react-native-web](https://github.com/necolas/react-native-web)
 - [reactxp](https://github.com/microsoft/reactxp)
