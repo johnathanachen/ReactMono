@@ -3,20 +3,20 @@ Cross Platform React Starter Kit (Web/Mobile)
 
 ## Project Structure
 ReactMono/<br>
-  package.json
-  app/
-    components/
-    model/
-    utils/
-    hooks/
-    ...
-    package.json
-  native/
-    ios/
-    android/
-    package.json
-  web/
-    package.json
+--package.json<br>
+--app/<br>
+----components/<br>
+----model/<br>
+----utils/<br>
+----hooks/<br>
+----...<br>
+----package.json<br>
+--native/<br>
+----ios/<br>
+----android/<br>
+----package.json<br>
+--web/<br>
+----package.json<br>
 ## Other Popular Projects
 - [react-native-web](https://github.com/necolas/react-native-web)
 - [reactxp](https://github.com/microsoft/reactxp)
